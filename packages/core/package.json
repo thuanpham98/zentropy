@@ -1,0 +1,34 @@
+{
+  "name": "@zentropyts/core",
+  "version": "0.0.1",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "thuanpm <thuanpm@vng.com.vn>",
+  "license": "ISC",
+  "type": "module",
+  "main": "lib/core.js",
+  "typings": "lib/core.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuanpham98/zentropy.git",
+    "directory": "packages/core"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js",
+    "tsc": "tsc"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/thuanpham98/zentropy/issues"
+  },
+  "homepage": "https://github.com/thuanpham98/zentropy#readme"
+}

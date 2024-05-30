@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    // "module": "ESNext",
+    // "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    // "noEmit": false,
+    // "allowImportingTsExtensions": true,
+    "allowArbitraryExtensions": true,
+    // "verbatimModuleSyntax": true,
+    "emitDeclarationOnly": false,
+    "allowJs": true,
+    "module": "NodeNext",
+    "target": "ES5",
+    "strict": true,
+    "declarationMap": true
+  },
+  "exclude": ["node_modules"]
+}
