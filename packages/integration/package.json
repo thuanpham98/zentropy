@@ -1,5 +1,5 @@
 {
-  "name": "integration",
+  "name": "@zentropyts/integration",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -20,7 +20,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@zentropyts/core": "*"
+    "@zentropyts/core": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "^20.12.12",

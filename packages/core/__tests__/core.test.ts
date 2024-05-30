@@ -7,7 +7,7 @@ import {
   describe,
 } from "@jest/globals";
 
-import { add } from "../lib/core.js";
+import { add } from "../lib/core";
 
 beforeEach(async () => {
   jest.resetModules();
